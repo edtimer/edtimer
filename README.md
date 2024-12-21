@@ -17,8 +17,6 @@
 
  **<h3 align="left">🚀 A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using NextJs with Payload CMS**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 Playing with Wazuh and dockerizing all things**
