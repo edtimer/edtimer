@@ -1,5 +1,3 @@
-
-
 ![👋 Hi, Adam here](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <div id="toc">
@@ -18,7 +16,7 @@
  **<h3 align="left">🚀 A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using NextJs with Payload CMS**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 🌱 I'm currently learning: **📚 Exploring Memphis**
 - 💬 Ask me about: **💡 Playing with Wazuh and dockerizing all things**
 
  **<h3 align="left">Skills</h3>**
