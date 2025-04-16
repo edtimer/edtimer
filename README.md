@@ -16,9 +16,9 @@
 
  **<h3 align="left">🚀 A fullstack software Engineer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with interest in Dev-Ops and Security.</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using NextJs with Payload CMS**
+- 💼 I'm currently working on: **💻 Developing a new platform using NextJs and NestJs**
 - 🌱 I'm currently learning: **📚 Exploring Memphis**
-- 💬 Ask me about: **💡 Playing with Wazuh and dockerizing all things**
+- 💬 Ask me about: **💡 Playing with Inngest and dockerizing all things**
 
  **<h3 align="left">Skills</h3>**
 
@@ -28,7 +28,7 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/edtimer/count.svg">
 
-Counting of visitors to this page in this section started from May 1, 2022
+Counting of visitors to this page in this section started from Dec 1, 2025
 
 <!-- <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
  **<h3 align="left">GitHub Stats</h3>**
